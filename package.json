@@ -1,0 +1,32 @@
+{
+  "name": "gametool",
+  "version": "1.0.0",
+  "description": "gametool",
+  "bin": {
+    "dd": ".bin/dd"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src",
+    ".bin",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djs-it/gametool.git"
+  },
+  "keywords": [
+    "gametool"
+  ],
+  "author": "djs_it@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djs-it/gametool/issues"
+  },
+  "homepage": "https://github.com/djs-it/gametool#readme",
+  "dependencies": {
+    "gluegun": "^3.2.3"
+  }
+}
